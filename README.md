@@ -17,10 +17,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/joelcalm/PyGame">
-    <img src="img/pygame.png" alt="Logo" width="80" height="80">
+    <img src="img/pygame.png" alt="Logo" width="120" height="80">
   </a>  
 
-  <h3 align="center">Random Forest</h3>
+  <h3 align="center">PyGame</h3>
 
   <p align="center">
     A simple, single-player game built with Pygame, featuring dynamic obstacle navigation and interactive gameplay elements.
